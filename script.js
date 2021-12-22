@@ -29,3 +29,4 @@ button.addEventListener('click', () => {
   }
 });
 // split transforma uma string em um array, criei uma variável com o .split(' ') pra ele poder apagar os espaços entre as palavras e deixar tudo junto, cada palavra em um index.
+// vi o split no: https://www.w3schools.com/jsref/jsref_split.asp
